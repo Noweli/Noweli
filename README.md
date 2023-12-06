@@ -1,12 +1,6 @@
 <h3 align="center">A .NET Developer with Azure and AWS experience, perhaps Angular could be included too</h3>
 
 <hr>
-
-- 🔭 I’m currently working with **ASP.NET API, Azure, K8s**
-
-- 🌱 and currently learning **React, Azure AZ-400**
-
-<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=noweli&show_icons=true&locale=en&layout=compact" alt="noweli" /></p>
 <p align="left"> 
