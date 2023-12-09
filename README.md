@@ -1,4 +1,4 @@
-<h3 align="center">A .NET Developer with Azure and AWS experience, perhaps Angular could be included too</h3>
+<h3 align="center">A .NET Developer with Azure and AWS experience</h3>
 
 <hr>
 <h3 align="left">Languages and Tools:</h3>
