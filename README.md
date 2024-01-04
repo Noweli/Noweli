@@ -1,8 +1,9 @@
 <h3 align="center">A .NET Developer with Azure and AWS experience</h3>
 
 <hr>
-<h3 align="left">Languages and Tools:</h3>
 <p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=noweli&show_icons=true&locale=en&layout=compact" alt="noweli" /></p>
+<p align="left"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=noweli&theme=dark" alt="GitHub Streak" /></a></p>
+<h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a>Cloud: </a><br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
